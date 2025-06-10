@@ -49,8 +49,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contributors
 - **Mark (Durkesh)** - Lead Developer
-- (Add more contributors if applicable)
 
-## 📩 Contact
-For queries or collaboration, reach out at: [Your Email] | [Your LinkedIn] | [GitHub Profile]
+
 
